@@ -1,3 +1,0 @@
-[submodule "Efi/Apps/Network"]
-	path = Efi/Apps/Network
-	url = https://github.com/EfiPy/Netowrk.git
