@@ -1,0 +1,3 @@
+[submodule "Efi/Apps"]
+	path = Efi/Apps
+	url = git@github.com:EfiPy/EfiPy2Apps.git
