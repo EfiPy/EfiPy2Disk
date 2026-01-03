@@ -1,3 +1,7 @@
 [submodule "Efi/Apps"]
 	path = Efi/Apps
 	url = git@github.com:EfiPy/EfiPy2Apps.git
+[submodule "Efi/StdLib/lib/python36.8/site-packages/pciids"]
+	path = Efi/StdLib/lib/python36.8/site-packages/pciids
+	url = git@github.com:EfiPy/pciids.py.git
+	branch = main
